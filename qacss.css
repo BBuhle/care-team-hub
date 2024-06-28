@@ -1,0 +1,194 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    font-family: 'Arial Narrow';
+    font-size: xx-large;
+    color: #EC3A77;
+    text-align: center;
+}
+h2 {
+    font-family: Arial;
+    font-size: larger;
+    color: #89898B;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p {
+    padding: 5px;
+    color:#EF804A;
+    text-align: center;
+}
+img {
+    max-width: 25%;
+    max-height: 25%;    
+}
+.topnav {
+    font-family: 's-serif';
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: right;
+    padding-bottom: 15px;
+}
+.links {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.forms {
+    text-align: center;
+}
+
+.dropdown {
+    text-align: center;
+}
+
+.representatives {
+    text-align: center;
+}
+
+
+.collapsible {
+    background-color: #eee;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: 2px black;
+    text-align: center;
+    outline: 20px black;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .collapsible:hover {
+    background-color: #EF804A;
+    color:#eee;
+  }
+  
+  .premref {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ecf4f4;
+    text-align: center;
+  }
+
+.kbarticle {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ecf4f4;
+    text-align: center;
+        }
+
+  .nonnav {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ecf4f4;
+    text-align: center;
+  }
+
+  .buynowref {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ecf4f4;
+    text-align: center;
+  }
+
+  .bugreport {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #ecf4f4;
+    text-align: center;
+
+  }
+  .active {
+    font-family: arial;
+    color: #848D90;
+    text-decoration: none;
+    
+  }
+
+  .active:hover {
+    color:#EC3A77
+  }
+
+.saveissues {
+  text-align: center;
+  font-weight: bold;
+  font-family: arial;
+  font-size: larger;
+}
+  
+
+
+.headsup {
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: larger;
+}
+
+
+
+.solved {
+  text-align: center;
+  font-weight: bold;
+  color: green;
+}
+
+.toggle {
+  text-align: left;
+  padding-bottom: 5px;
+  padding-top: 35px;
+ 
+}
+
+.switch {
+ background-color: #4C4E52; 
+ font-family: arial;
+ font-weight: bold;
+ color: white;
+ border: none;
+}
+
+h3 {
+  font-weight: bolder;
+  font-family:arial;
+  font-size: x-large;
+  text-align: center;
+  color: #EF804A;
+}
+
+.sghead {
+  padding-top: 23px;
+  padding-bottom: 10px;
+}
+
+.budget {
+text-align: center;
+padding-bottom: 5px;
+}
+
+.survey {
+  text-align: center;
+  padding-bottom: 75px;
+
+}
+
+.sghead1 {
+  padding-left: 10px;
+  text-align: center;
+  align-content: center;
+  padding-top: 23px;
+  padding-bottom: 10px;
+  
+}
