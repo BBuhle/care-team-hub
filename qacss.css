@@ -50,6 +50,11 @@ img {
     text-align: center;
 }
 
+.cyanissues {
+    text-align: center;
+    text-weight: bold;
+    font-size: 16px;
+}
 
 .collapsible {
     background-color: #eee;
